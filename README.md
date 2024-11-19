@@ -1,8 +1,12 @@
-# Playwright Design Patterns - 2019019
+# Playwright Design Patterns
 
-This is the repository for the LinkedIn Learning course **"Playwright Design Patterns - 2019019."** The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course **"Playwright Design Patterns"** The full course is available from [LinkedIn Learning][lil-course-url].
 
-![Playwright Design Patterns - 2019019][lil-thumbnail-url] 
+![Playwright Design Patterns][lil-thumbnail-url] 
+
+## Course Description
+
+In this course, learn how to leverage design patterns to enhance your test automation framework using Playwright. By understanding and implementing patterns such as the Page Object Model, fixtures, and data-driven testing, you'll be able to write cleaner, more maintainable, and scalable test scripts. This course is designed for test automation engineers and developers who want to improve their testing skills and ensure their tests are robust and easy to maintain. Through practical examples and hands-on exercises, gain the knowledge and skills needed to apply these design patterns effectively in your projects.
 
 _See the readme file in the main branch for updated instructions and information._
 
@@ -66,5 +70,13 @@ To resolve this issue:
 
 5. Follow any additional course-specific instructions found in the relevant branches.
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+## Instructor
+
+Qambar Raza
+
+Playwright Test Automation Specialist, Content Creator        
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/qambar-raza?u=104).
+
+[lil-course-url]: https://www.linkedin.com/learning/playwright-design-patterns
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQE68ssz1R0Ufw/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1731097260562?e=2147483647&v=beta&t=RUlzWaTzqCfWpEjv_Lu3mKjo4TCxEZW_kf4lysTgpxI
